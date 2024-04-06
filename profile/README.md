@@ -20,3 +20,29 @@ Crafted by team CaffeineOverflow
 - Can't be bothered to formalize your planned trip in a proper PDF to share with friends and family? No worries, our itinerary generation feature has you covered for generating a sleek and well formatted itinerary document that you can create in minutes
 - In a new place and have a questions? Ask our chatbot assistant about the best places for sushi near you along with the appropriate local greeting
 - Do all the above without ever having to worry about sharing your personal information
+
+## 🚀 Getting Started:
+
+Embark on your next adventure with SastaRasta.com in three simple steps: 
+
+- **Plan Your Trip:** Give your travel dates and preferences and let our AI work its magic to suggest a personalised travel itinerary based on your preferences.
+- **Customise:** Fine-tune your plans with our easy-to-use interface. Add or remove suggestions as you see fit. 
+- **Generate & Share:** With one click, create a detailed, downloadable PDF itinerary and share it with your friends and family!
+
+
+## 🧠 Utilizing LLMs
+
+### ✍️ Personalized Itinerary Generation
+- **Understanding User Preferences:** The LLM analyzes user inputs such as travel dates, destinations, and personal interests to understand individual preferences.
+- **Generating Custom Itineraries:** Based on the analyzed data, the LLM crafts detailed, personalized travel itineraries, suggesting accommodations, activities, and dining options that align with user preferences.
+
+### 🤑 Dynamic Sasta Chatbot
+- **Real-Time Assistance:** The chatbot, powered by LLMs, provides users with instant answers to travel-related queries, from local dining recommendations to cultural etiquette tips, get all your answers sorted at your finger tips.
+- **Contextual Understanding:** The LLM has a deep understanding of user context and requirements which enables the ChatBot to give accurate and relevant responses.
+
+
+## 🪛 Integrating Prompt Engineering
+
+- **Tailored Prompts for Detailed Responses:** Pre-defined and tailored prompts to enhance the user experience by just a few clicks and get response directly applicable for user's plans.
+- **Sequential Prompting:** Use a series of structured prompts to guide the LLM through generating a step-by-step itinerary that logically progresses from one activity to the next.
+- **Privacy-focused Prompts:** Craft prompts that explicitly instruct the LLM to ignore or anonymize personal user data, emphasizing user privacy and data protection.
