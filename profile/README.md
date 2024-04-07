@@ -46,3 +46,8 @@ Embark on your next adventure with SastaRasta in three simple steps:
 - **Tailored Prompts for Detailed Responses:** Pre-defined and tailored prompts to enhance the user experience by just a few clicks and get response directly applicable for user's plans.
 - **Sequential Prompting:** Use a series of structured prompts to guide the LLM through generating a step-by-step itinerary that logically progresses from one activity to the next.
 - **Privacy-focused Prompts:** Craft prompts that explicitly instruct the LLM to ignore or anonymize personal user data, emphasizing user privacy and data protection.
+
+
+## 😼 Future Scope
+
+**Considering user reviews :** Without collecting or storing the previous user data, the generated response can use this data to take it as a sample template and use it to generate the new response. This does not store the previous user details in any way, just the response to the prompt is stored ensuring digital anonymity.
