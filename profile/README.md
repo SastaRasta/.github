@@ -1,8 +1,8 @@
-# Welcome to SastaRasta.com! 
+# Welcome to [SastaRasta](sastarasta.pages.dev)! 
 Your ultimate partner to plan that next trip with friends  
 Crafted by team CaffeineOverflow
 
-## :star: Why sastarasta.com?
+## :star: Why sastarasta?
 - **Privacy Protection:** Say goodbye to predatory tracking and your browsing habits stay with you, always.
 - **AI-Powered Planning:** Plan, customize and share your trips effortlessly by leveraging the power of GenAI.
 - **Instant travel Assistant:** Get on-the-go tips and answers to all your travel queries with our intuitive Q&A Sasta chatbot.
