@@ -1,4 +1,4 @@
-# Welcome to [SastaRasta](sastarasta.pages.dev)! 
+# Welcome to [SastaRasta](https://sastarasta.pages.dev/)! 
 Your ultimate partner to plan that next trip with friends  
 Crafted by team CaffeineOverflow
 
